@@ -1,6 +1,3 @@
-# SustainaGov-AI
-AI Assistant for Government Sustainability Schemes
-
 # 🌱 SustainaGov AI
 
 SustainaGov AI is an AI-powered assistant that helps Indian citizens
